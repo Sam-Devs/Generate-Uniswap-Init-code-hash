@@ -27,6 +27,7 @@
   ],
   "dependencies": {
     "@ethersproject/address": "^5.4.0",
+    "@ethersproject/providers": "^5.4.0",
     "@ethersproject/solidity": "^5.4.0",
     "@types/node": "^15.14.0",
     "@uniswap/sdk": "^3.0.3",
