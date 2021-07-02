@@ -1,10 +1,15 @@
 {
   "name": "Generate-Uniswap-Init-code-hash",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "module": "dist/wallet.esm.js",
   "repository": "https://github.com/Sam-Devs/Generate-Uniswap-Init-code-hash.git",
   "author": "Sam Ayorinde <41350405+Sam-Devs@users.noreply.github.com>",
   "license": "MIT",
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "lint": "tsdx lint src test",
     "lint:fix": "tsdx lint src test --fix",
