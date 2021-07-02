@@ -1,0 +1,12 @@
+{
+  "name": "Generate-Uniswap-Init-code-hash",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Sam-Devs/Generate-Uniswap-Init-code-hash.git",
+  "author": "Sam Ayorinde <41350405+Sam-Devs@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^15.14.0",
+    "typescript": "^4.3.5"
+  }
+}
